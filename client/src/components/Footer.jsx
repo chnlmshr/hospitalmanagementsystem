@@ -10,7 +10,7 @@ export const Footer = (props) => {
               No more hassle of going from counter to counter. <br/>
               Providing you the access of hospital from the ease of home. <br />
             </p>
-            <div className="mt-4">Made with &#129505; by Aditya & Chanchal</div>
+            <div className="mt-4">Made with &#129505; by Yash & Chanchal</div>
           </div>
           <div className="col-lg-4 col-12 offset-lg-2">
             <h6 className="ml-3 mb-3">Follow Us on</h6>
